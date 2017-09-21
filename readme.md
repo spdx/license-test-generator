@@ -87,7 +87,7 @@ Possible things to do in thee future:
 	1. It would be nice to access the JSON fragments directly from their GIT.
 	2. Add long options.
 	3. Possibly generate just text files with nothing but the license text.
-	4. Remove license list markup form the license text.
+	4. Remove license list markup from the license text.
 
 
 
