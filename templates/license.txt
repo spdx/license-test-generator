@@ -1,0 +1,12 @@
+
+/*
+** LICENSE HEADER AND COPYRIGHT TO DETECT	
+** This section either uses either the standard license header, or if one does not exist, the license 
+** text as shown on the SPDX License List. In addition, if the file was generated using the write 
+** license identifiers option, they will appear before the license text.
+** 										
+**
+** SPDX License to detect: %s				
+*/
+
+

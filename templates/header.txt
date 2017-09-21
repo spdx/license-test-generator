@@ -1,0 +1,17 @@
+/*
+** THIS IS A TEST FILE FOR THE SPDX LICENSE DETECTION TESTS											
+**																										
+** This file has been auto generated using the SPDX License List as represented by
+** the JSON files:  https://github.com/spdx/license-list-data 
+** 
+** This file is for test purposes only. It WILL NOT compile or do anything useful otherwise.
+**
+** Test File Version: %s
+**
+** DISCLAIMER
+**
+** Any copyrights appearing in this test file do so because they were part of the license text as stored by SPDX and are included 
+** only for test purposes as they are part of the license text.	They have no meaning, implied or specific, otherwise.	
+*/
+
+
